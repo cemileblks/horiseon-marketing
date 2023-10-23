@@ -11,7 +11,7 @@ The image below shows the website when opened. On the right-hand top corner, eas
 ## Deployment
 The deployed website is available at:
 
-[Horiseon Marketing](https://cemileblks.github.io/horiseon-marketing/)
+[Horiseon Marketing](https://cemileblks.github.io/horiseon-marketing/){:target="_blank"}
 
 ## Credits
 N/A
